@@ -1,0 +1,33 @@
+/*
+	Gotta Bootstrap 4 ASAP
+	----------------------------------------------------
+	Style Name: custom_style.css
+	Author: Krista Lacida
+	Date Created: 04/07/2016
+
+*/
+
+
+
+html, html a{
+	-webkit-font-smoothing: antialiased !important;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+}
+
+html,
+body {
+	height: 100%;
+}
+
+
+.splash {
+	background-color: #ccc;
+	display: table;
+	height: 80%;
+	width: 100%;
+}
+
+.splash .splash-inner {
+	display: table-cell;
+	vertical-align: middle;
+}
