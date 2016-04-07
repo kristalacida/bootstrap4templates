@@ -1,0 +1,22 @@
+/*!
+ * Gotta Bootstrap 4 ASAP
+ * Krista Lacida
+ */
+
+// Custom Theme
+@import "themes/main";
+
+// Vendors
+@import "vendor/bootstrap4.0.0alpha2/bootstrap";
+
+
+// Google Fonts
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,300,700);
+
+// Partials
+@import "partials/components/reboot";
+@import "partials/components/utilities";
+
+// Layouts
+@import "layout/splash";
+

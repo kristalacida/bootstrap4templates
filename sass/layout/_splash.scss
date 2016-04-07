@@ -1,0 +1,15 @@
+
+
+.splash {
+	background-color: $brand-color;
+	color: $white;
+	display: table;
+	height: 80%;
+	width: 100%;
+
+	.splash-inner {
+		display: table-cell;
+		vertical-align: middle;
+	}
+
+}
